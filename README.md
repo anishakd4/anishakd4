@@ -8,7 +8,7 @@
 
 <!-- ![linkedin](<a href=”https://www.linkedin.com/in/anish-kumar-dubey-75b32759/"><img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' /></a>)
 
-[Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)(https://www.linkedin.com/in/anish-kumar-dubey-75b32759/)
+[[Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.linkedin.com/in/anish-kumar-dubey-75b32759/)
 
 
 <!--
