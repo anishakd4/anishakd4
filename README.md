@@ -6,6 +6,8 @@
  -->
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anishakd4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
 
 <!--
 **anishakd4/anishakd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
