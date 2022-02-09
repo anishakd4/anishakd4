@@ -6,9 +6,9 @@
  -->
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anishakd4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
-![linkedin](<a href=”https://www.linkedin.com/in/anish-kumar-dubey-75b32759/"><img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' /></a>)
+<!-- ![linkedin](<a href=”https://www.linkedin.com/in/anish-kumar-dubey-75b32759/"><img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' /></a>)
 
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) -->
 
 
 <!--
