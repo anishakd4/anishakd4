@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anishakd4)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anishakd4&repo=BrickBreak)
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anishakd4&repo=BrickBreak) -->
 
 
 <!--
